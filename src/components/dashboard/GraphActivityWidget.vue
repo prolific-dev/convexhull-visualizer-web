@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 //import { Queue } from '../../util/queue';
 
 const activities = [

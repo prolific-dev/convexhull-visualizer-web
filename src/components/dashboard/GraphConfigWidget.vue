@@ -79,7 +79,7 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import { computed, ref } from 'vue';
 import { Form } from '@primevue/forms';
 import { useGlobalState } from '../../store/store';

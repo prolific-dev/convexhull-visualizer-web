@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import { Doughnut } from 'vue-chartjs';
 import { Chart as ChartJS, ArcElement, Tooltip, Legend } from 'chart.js';
 import { ref, computed, watch, onMounted } from 'vue';

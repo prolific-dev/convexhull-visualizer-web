@@ -5,7 +5,7 @@
   </div>
 </template>
 
-<script setup>
+<script setup lang="ts">
 import { ref, inject } from 'vue';
 import { ProgressBar } from 'primevue';
 

@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import { useLayout } from '../composables/useLayout';
 import AppConfig from './AppConfig.vue';
 
